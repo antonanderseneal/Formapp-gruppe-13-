@@ -9,9 +9,10 @@ validationApp.controller('mainController', function($scope)
 
     // check to make sure the form is completely valid
     if (isValid) {
-
-      alert("ny aendring 9"); 
-
+      alert("ny aendring"); 
+		
+     
+      alert("nyeste ændring");
     }
 
   };
