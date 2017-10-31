@@ -9,7 +9,7 @@ validationApp.controller('mainController', function($scope)
 
     // check to make sure the form is completely valid
     if (isValid) {
-      alert("ny aendring5 ny ændring 8"); 
+      alert("ny aendring5 ny ændring 9"); 
     }
 
   };
